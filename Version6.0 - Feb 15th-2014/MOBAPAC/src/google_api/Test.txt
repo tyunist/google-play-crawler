@@ -1,0 +1,8 @@
+﻿c.details.appDetails.uploadDate,        #Upload date of current version: May 3, 2012
+c.details.appDetails.appType,       #
+c.details.appDetails.installationSize,      #Size of .apk in Byte      294485 = 287.6 KB
+c.details.appDetails.recentChangesHtml,     #   0
+c.offer[0].formattedName,   # 
+c.offer[0].formattedDescription,        #
+c.offer[0].onSaleDate,      # 0
+#c.offer[1].onSaleDate,     #List not in range

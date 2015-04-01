@@ -1,0 +1,7 @@
+server_side.import_app: 	2013-12-14 03:01:05.179484	Start import_app process!
+server_side.import_app: 	*************Summarize!**********************
+server_side.import_app: 	Number of new apps from file: 8
+server_side.import_app: 	Number of new apps imported from file: 8
+server_side.import_app: 	Start time of importing apps:	2013-12-14 03:01:05.181244
+server_side.import_app: 	 Inserting new apps to id table at: 	2013-12-14 03:01:05.423289
+server_side.import_app: 	*************END*****************************

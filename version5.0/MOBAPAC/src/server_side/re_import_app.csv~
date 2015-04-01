@@ -1,0 +1,75 @@
+2013-11-17 08:46:06.602361	Start import_app process!
+Time to finish importing 10 apps:	0:00:00.023811
+Time to finish importing 100 apps:	0:00:00.107766
+Time to finish importing 200 apps:	0:00:00.179018
+Time to finish importing 300 apps:	0:00:00.261372
+Time to finish importing 400 apps:	0:00:00.345731
+Time to finish importing 500 apps:	0:00:00.433599
+Time to finish importing 600 apps:	0:00:00.505482
+Time to finish importing 700 apps:	0:00:00.603106
+Time to finish importing 800 apps:	0:00:00.688599
+Time to finish importing 900 apps:	0:00:00.776540
+Time to finish importing 1000 apps:	0:00:00.860837
+Time to finish importing 1100 apps:	0:00:00.921232
+Time to finish importing 1200 apps:	0:00:00.998533
+Time to finish importing 1300 apps:	0:00:01.059192
+Time to finish importing 1400 apps:	0:00:01.161281
+Time to finish importing 1500 apps:	0:00:01.243050
+Time to finish importing 1600 apps:	0:00:01.308244
+Time to finish importing 1700 apps:	0:00:01.368119
+Time to finish importing 1800 apps:	0:00:01.423783
+Time to finish importing 1900 apps:	0:00:01.483027
+Time to finish importing 2000 apps:	0:00:01.538704
+Time to finish importing 2100 apps:	0:00:01.599907
+Time to finish importing 2200 apps:	0:00:01.661009
+Time to finish importing 2300 apps:	0:00:01.775655
+Time to finish importing 2400 apps:	0:00:01.847438
+Time to finish importing 2500 apps:	0:00:01.934336
+Time to finish importing 2600 apps:	0:00:02.011791
+Time to finish importing 2700 apps:	0:00:02.096576
+Time to finish importing 2800 apps:	0:00:02.159036
+Time to finish importing 2900 apps:	0:00:02.229325
+Time to finish importing 3000 apps:	0:00:02.346539
+Time to finish importing 3100 apps:	0:00:02.411655
+Time to finish importing 3200 apps:	0:00:02.482464
+Time to finish importing 3300 apps:	0:00:02.552096
+Time to finish importing 3400 apps:	0:00:02.622193
+Time to finish importing 3500 apps:	0:00:02.749212
+Time to finish importing 3600 apps:	0:00:02.973602
+Time to finish importing 3700 apps:	0:00:03.170486
+Time to finish importing 3800 apps:	0:00:03.283336
+Time to finish importing 3900 apps:	0:00:03.432908
+Time to finish importing 4000 apps:	0:00:03.667022
+Time to finish importing 4100 apps:	0:00:03.893750
+Time to finish importing 4200 apps:	0:00:04.114006
+Time to finish importing 4300 apps:	0:00:04.317436
+Time to finish importing 4400 apps:	0:00:04.460505
+Time to finish importing 4500 apps:	0:00:04.686816
+Time to finish importing 4600 apps:	0:00:04.921518
+Time to finish importing 4700 apps:	0:00:05.055018
+Time to finish importing 4800 apps:	0:00:05.285084
+Time to finish importing 4900 apps:	0:00:05.466145
+Time to finish importing 5000 apps:	0:00:05.665115
+Time to finish importing 5100 apps:	0:00:05.893361
+Time to finish importing 5200 apps:	0:00:06.116197
+Time to finish importing 5300 apps:	0:00:06.344807
+Time to finish importing 5400 apps:	0:00:06.572509
+Time to finish importing 5500 apps:	0:00:06.711070
+Time to finish importing 5600 apps:	0:00:06.934050
+Time to finish importing 5700 apps:	0:00:07.159090
+Time to finish importing 5800 apps:	0:00:07.383122
+Time to finish importing 5900 apps:	0:00:07.612511
+Time to finish importing 6000 apps:	0:00:07.760924
+Time to finish importing 6100 apps:	0:00:07.901146
+2013-11-18 02:44:07.744971	Start import_app process!
+Time to finish importing 10 apps:	0:00:00.316041
+2013-11-18 02:54:30.167865	Start import_app process!
+Time to finish importing 10 apps:	0:00:00.315239
+*************END*****************************
+2013-11-20 20:52:45.208585	Start import_app process!
+*************Summarize!**********************
+Number of new apps from file: 8
+Number of new apps imported from file: 8
+Start time of importing apps:	2013-11-20 20:52:45.209935
+ Inserting new apps to id table at: 	2013-11-20 20:52:45.486517
+*************END*****************************

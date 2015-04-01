@@ -1,0 +1,540 @@
+server_side.search_app: 	2013-11-26 16:38:58.451528	Importing categories into Database
+server_side.search_app: 	2013-11-26 16:38:58.484803	MEDICAL is inserted!
+server_side.search_app: 	2013-11-26 16:38:58.547476	Finish importing 1 categories into Database!
+*****************************************************************
+server_side.search_app: 	2013-11-26 16:38:58.549354	Searching for new apps using categories
+*****************************************************************
+server_side.search_app: 	2013-11-26 16:38:58.552987	Current category, subcategory:MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-26 16:39:19.970183	Time to search apps for this category:	0:00:21.416592
+server_side.search_app: 	2013-11-26 16:39:19.973634	Category& subcategory:MEDICAL, apps_topselling_new_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:39:19.975726	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:39:39.443612	Inserted 500 app with category& subcategory = MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-26 16:39:39.444477	Time to insert 500 apps into id table:	0:00:19.468170
+server_side.search_app: 	2013-11-26 16:39:39.448697	Current category, subcategory:MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-26 16:40:01.970141	Time to search apps for this category:	0:00:22.520685
+server_side.search_app: 	2013-11-26 16:40:01.971044	Category& subcategory:MEDICAL, apps_topselling_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:40:01.972020	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:40:22.067812	Inserted 484 app with category& subcategory = MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-26 16:40:22.068898	Time to insert 484 apps into id table:	0:00:20.096281
+server_side.search_app: 	2013-11-26 16:40:22.072423	Current category, subcategory:MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-26 16:40:24.353414	Time to search apps for this category:	0:00:02.280167
+server_side.search_app: 	2013-11-26 16:40:24.355808	Category& subcategory:MEDICAL, apps_topselling_new_paid searched 50 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:40:24.357545	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:40:26.555697	Inserted 50 app with category& subcategory = MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-26 16:40:26.557384	Time to insert 50 apps into id table:	0:00:02.199132
+server_side.search_app: 	2013-11-26 16:40:26.559167	Current category, subcategory:MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-26 16:40:48.508271	Time to search apps for this category:	0:00:21.948637
+server_side.search_app: 	2013-11-26 16:40:48.509388	Category& subcategory:MEDICAL, apps_topselling_paid searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:40:48.511089	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:41:10.327822	Inserted 494 app with category& subcategory = MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-26 16:41:10.328468	Time to insert 494 apps into id table:	0:00:21.816326
+server_side.search_app: 	2013-11-26 16:41:10.328813	Time to finish search apps by category:	0:02:11.778092
+server_side.search_app: 	2013-11-26 16:41:10.329134	Finish search-by-comment! 
+*****************************************************************
+server_side.search_app: 	2013-11-26 16:41:10.330082	Reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-26 16:41:10.331437	Finish reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-26 16:41:10.331972	Searching for new apps by keywords
+server_side.search_app: 	2013-11-26 16:41:10.332487	Current KeyWord:Menstrual Calendar
+server_side.search_app: 	2013-11-26 16:41:23.424766	Time to search apps for this keyword:	0:00:13.091810
+server_side.search_app: 	2013-11-26 16:41:23.427043	Key word:Menstrual Calendar searched 201 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:41:23.430043	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:43:55.023339	Inserted 15 app with keyword = Menstrual Calendar 
+server_side.search_app: 	2013-11-26 16:43:55.023925	Time to insert 15 apps into id table:	0:02:31.591322
+server_side.search_app: 	2013-11-26 16:43:55.024224	Current KeyWord:pregnancy
+server_side.search_app: 	2013-11-26 16:44:04.382981	Time to search apps for this keyword:	0:00:09.358504
+server_side.search_app: 	2013-11-26 16:44:04.384269	Key word:pregnancy searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:44:04.385709	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:46:50.227391	Inserted 41 app with keyword = pregnancy 
+server_side.search_app: 	2013-11-26 16:46:50.230183	Time to insert 41 apps into id table:	0:02:45.843872
+server_side.search_app: 	2013-11-26 16:46:50.231165	Current KeyWord:health
+server_side.search_app: 	2013-11-26 16:46:58.764406	Time to search apps for this keyword:	0:00:08.532371
+server_side.search_app: 	2013-11-26 16:46:58.765777	Key word:health searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:46:58.767536	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:49:50.025079	Inserted 0 app with keyword = health 
+server_side.search_app: 	2013-11-26 16:49:50.026385	Time to insert 0 apps into id table:	0:02:51.257915
+server_side.search_app: 	2013-11-26 16:49:50.027368	Current KeyWord:medical
+server_side.search_app: 	2013-11-26 16:50:07.430522	Time to search apps for this keyword:	0:00:17.402285
+server_side.search_app: 	2013-11-26 16:50:07.431293	Key word:medical searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:50:07.432218	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:51:30.715044	Inserted 96 app with keyword = medical 
+server_side.search_app: 	2013-11-26 16:51:30.715792	Time to insert 96 apps into id table:	0:01:23.283297
+server_side.search_app: 	2013-11-26 16:51:30.716507	Current KeyWord:women
+server_side.search_app: 	2013-11-26 16:51:39.882175	Time to search apps for this keyword:	0:00:09.164966
+server_side.search_app: 	2013-11-26 16:51:39.884786	Key word:women searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:51:39.886617	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:54:47.894439	Inserted 2 app with keyword = women 
+server_side.search_app: 	2013-11-26 16:54:47.895889	Time to insert 2 apps into id table:	0:03:08.008477
+server_side.search_app: 	2013-11-26 16:54:47.896782	Current KeyWord:men
+server_side.search_app: 	2013-11-26 16:54:57.550660	Time to search apps for this keyword:	0:00:09.652941
+server_side.search_app: 	2013-11-26 16:54:57.553583	Key word:men searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:54:57.554912	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 16:58:12.187954	Inserted 2 app with keyword = men 
+server_side.search_app: 	2013-11-26 16:58:12.188669	Time to insert 2 apps into id table:	0:03:14.633179
+server_side.search_app: 	2013-11-26 16:58:12.189065	Current KeyWord:birth plan
+server_side.search_app: 	2013-11-26 16:58:21.124741	Time to search apps for this keyword:	0:00:08.935372
+server_side.search_app: 	2013-11-26 16:58:21.126358	Key word:birth plan searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 16:58:21.128149	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 17:01:13.858743	Inserted 7 app with keyword = birth plan 
+server_side.search_app: 	2013-11-26 17:01:13.860856	Time to insert 7 apps into id table:	0:02:52.731974
+server_side.search_app: 	2013-11-26 17:01:13.862076	Current KeyWord:name
+server_side.search_app: 	2013-11-26 17:01:22.965787	Time to search apps for this keyword:	0:00:09.102869
+server_side.search_app: 	2013-11-26 17:01:22.967181	Key word:name searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 17:01:22.968690	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 17:04:13.331774	Inserted 0 app with keyword = name 
+server_side.search_app: 	2013-11-26 17:04:13.333268	Time to insert 0 apps into id table:	0:02:50.363686
+server_side.search_app: 	2013-11-26 17:04:13.334124	Current KeyWord:doctor
+server_side.search_app: 	2013-11-26 17:04:22.107754	Time to search apps for this keyword:	0:00:08.772706
+server_side.search_app: 	2013-11-26 17:04:22.109874	Key word:doctor searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-26 17:04:22.111160	Inserting searched apps to id table
+server_side.search_app: 	2013-11-26 17:07:27.530093	Inserted 24 app with keyword = doctor 
+server_side.search_app: 	2013-11-26 17:07:27.532715	Time to insert 24 apps into id table:	0:03:05.421194
+server_side.search_app: 	2013-11-26 17:07:27.533749	Time to finish search apps by keyword:	0:26:17.201306
+server_side.search_app: 	2013-11-26 17:07:27.534466	Finish search-by-keyword! 
+*****************************************************************
+server_side.search_app: 	2013-11-26 17:07:27.535937	Number of apps Inserted with searching by category:1528 
+server_side.search_app: 	2013-11-26 17:07:27.536723	Number of apps Inserted with searching by keyword:187 
+server_side.search_app: 	2013-11-27 05:50:03.419931	Importing categories into Database
+server_side.search_app: 	2013-11-27 05:50:03.435695	MEDICAL existed already!
+server_side.search_app: 	2013-11-27 05:50:03.436084	Finish importing 0 categories into Database!
+*****************************************************************
+server_side.search_app: 	2013-11-27 05:50:03.436582	Searching for new apps using categories
+*****************************************************************
+server_side.search_app: 	2013-11-27 05:50:03.438976	Current category, subcategory:MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-27 05:50:28.144818	Time to search apps for this category:	0:00:24.705438
+server_side.search_app: 	2013-11-27 05:50:28.145309	Category& subcategory:MEDICAL, apps_topselling_new_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:50:28.145946	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:50:29.775211	Inserted 36 app with category& subcategory = MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-27 05:50:29.775593	Time to insert 36 apps into id table:	0:00:01.629380
+server_side.search_app: 	2013-11-27 05:50:29.776773	Current category, subcategory:MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-27 05:50:53.583090	Time to search apps for this category:	0:00:23.806018
+server_side.search_app: 	2013-11-27 05:50:53.584003	Category& subcategory:MEDICAL, apps_topselling_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:50:53.584549	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:50:55.351301	Inserted 43 app with category& subcategory = MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-27 05:50:55.351721	Time to insert 43 apps into id table:	0:00:01.766882
+server_side.search_app: 	2013-11-27 05:50:55.353313	Current category, subcategory:MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-27 05:50:56.955827	Time to search apps for this category:	0:00:01.602096
+server_side.search_app: 	2013-11-27 05:50:56.956261	Category& subcategory:MEDICAL, apps_topselling_new_paid searched 38 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:50:56.956795	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:50:57.026466	Inserted 1 app with category& subcategory = MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-27 05:50:57.026898	Time to insert 1 apps into id table:	0:00:00.069906
+server_side.search_app: 	2013-11-27 05:50:57.028230	Current category, subcategory:MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-27 05:51:20.859959	Time to search apps for this category:	0:00:23.831386
+server_side.search_app: 	2013-11-27 05:51:20.860490	Category& subcategory:MEDICAL, apps_topselling_paid searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:51:20.860999	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:51:22.245938	Inserted 32 app with category& subcategory = MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-27 05:51:22.246787	Time to insert 32 apps into id table:	0:00:01.385571
+server_side.search_app: 	2013-11-27 05:51:22.247397	Time to finish search apps by category:	0:01:18.810337
+server_side.search_app: 	2013-11-27 05:51:22.247919	Finish search-by-comment! 
+*****************************************************************
+server_side.search_app: 	2013-11-27 05:51:22.249046	Reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-27 05:51:22.249844	Finish reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-27 05:51:22.250080	Searching for new apps by keywords
+server_side.search_app: 	2013-11-27 05:51:22.250317	Current KeyWord:Menstrual Calendar
+server_side.search_app: 	2013-11-27 05:51:30.248020	Time to search apps for this keyword:	0:00:07.997469
+server_side.search_app: 	2013-11-27 05:51:30.248548	Key word:Menstrual Calendar searched 204 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:51:30.249168	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:53:36.118836	Inserted 0 app with keyword = Menstrual Calendar 
+server_side.search_app: 	2013-11-27 05:53:36.119483	Time to insert 0 apps into id table:	0:02:05.870034
+server_side.search_app: 	2013-11-27 05:53:36.119759	Current KeyWord:pregnancy
+server_side.search_app: 	2013-11-27 05:53:44.949233	Time to search apps for this keyword:	0:00:08.829235
+server_side.search_app: 	2013-11-27 05:53:44.949876	Key word:pregnancy searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:53:44.950490	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:56:09.732028	Inserted 1 app with keyword = pregnancy 
+server_side.search_app: 	2013-11-27 05:56:09.733055	Time to insert 1 apps into id table:	0:02:24.782258
+server_side.search_app: 	2013-11-27 05:56:09.733389	Current KeyWord:health
+server_side.search_app: 	2013-11-27 05:56:17.812448	Time to search apps for this keyword:	0:00:08.078392
+server_side.search_app: 	2013-11-27 05:56:17.812971	Key word:health searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:56:17.813550	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:59:19.023529	Inserted 0 app with keyword = health 
+server_side.search_app: 	2013-11-27 05:59:19.024131	Time to insert 0 apps into id table:	0:03:01.210314
+server_side.search_app: 	2013-11-27 05:59:19.024519	Current KeyWord:medical
+server_side.search_app: 	2013-11-27 05:59:27.658737	Time to search apps for this keyword:	0:00:08.633926
+server_side.search_app: 	2013-11-27 05:59:27.659311	Key word:medical searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:59:27.659879	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 05:59:31.006943	Inserted 3 app with keyword = medical 
+server_side.search_app: 	2013-11-27 05:59:31.007554	Time to insert 3 apps into id table:	0:00:03.347435
+server_side.search_app: 	2013-11-27 05:59:31.007944	Current KeyWord:women
+server_side.search_app: 	2013-11-27 05:59:41.351176	Time to search apps for this keyword:	0:00:10.342924
+server_side.search_app: 	2013-11-27 05:59:41.351790	Key word:women searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 05:59:41.352484	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 06:02:33.381182	Inserted 0 app with keyword = women 
+server_side.search_app: 	2013-11-27 06:02:33.381725	Time to insert 0 apps into id table:	0:02:52.028967
+server_side.search_app: 	2013-11-27 06:02:33.382112	Current KeyWord:men
+server_side.search_app: 	2013-11-27 06:02:43.139173	Time to search apps for this keyword:	0:00:09.756797
+server_side.search_app: 	2013-11-27 06:02:43.139954	Key word:men searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 06:02:43.140635	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 06:05:32.311721	Inserted 0 app with keyword = men 
+server_side.search_app: 	2013-11-27 06:05:32.312309	Time to insert 0 apps into id table:	0:02:49.171347
+server_side.search_app: 	2013-11-27 06:05:32.312620	Current KeyWord:birth plan
+server_side.search_app: 	2013-11-27 06:05:40.422922	Time to search apps for this keyword:	0:00:08.110045
+server_side.search_app: 	2013-11-27 06:05:40.423551	Key word:birth plan searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 06:05:40.424139	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 06:08:27.936602	Inserted 0 app with keyword = birth plan 
+server_side.search_app: 	2013-11-27 06:08:27.937133	Time to insert 0 apps into id table:	0:02:47.512709
+server_side.search_app: 	2013-11-27 06:08:27.937491	Current KeyWord:name
+server_side.search_app: 	2013-11-27 06:08:38.319766	Time to search apps for this keyword:	0:00:10.381823
+server_side.search_app: 	2013-11-27 06:08:38.320731	Key word:name searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 06:08:38.321727	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 06:12:06.725574	Inserted 0 app with keyword = name 
+server_side.search_app: 	2013-11-27 06:12:06.726133	Time to insert 0 apps into id table:	0:03:28.404183
+server_side.search_app: 	2013-11-27 06:12:06.726446	Current KeyWord:doctor
+server_side.search_app: 	2013-11-27 06:12:15.559108	Time to search apps for this keyword:	0:00:08.832363
+server_side.search_app: 	2013-11-27 06:12:15.559681	Key word:doctor searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 06:12:15.560280	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 06:14:41.633998	Inserted 2 app with keyword = doctor 
+server_side.search_app: 	2013-11-27 06:14:41.634545	Time to insert 2 apps into id table:	0:02:26.073990
+server_side.search_app: 	2013-11-27 06:14:41.634865	Time to finish search apps by keyword:	0:23:19.384556
+server_side.search_app: 	2013-11-27 06:14:41.635145	Finish search-by-keyword! 
+*****************************************************************
+server_side.search_app: 	2013-11-27 06:14:41.635891	Number of apps Inserted with searching by category:112 
+server_side.search_app: 	2013-11-27 06:14:41.636129	Number of apps Inserted with searching by keyword:6 
+server_side.search_app: 	2013-11-27 14:50:04.362764	Importing categories into Database
+server_side.search_app: 	2013-11-27 14:50:04.388955	MEDICAL existed already!
+server_side.search_app: 	2013-11-27 14:50:04.389902	Finish importing 0 categories into Database!
+*****************************************************************
+server_side.search_app: 	2013-11-27 14:50:04.391386	Searching for new apps using categories
+*****************************************************************
+server_side.search_app: 	2013-11-27 14:50:04.394740	Current category, subcategory:MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-27 14:50:30.884994	Time to search apps for this category:	0:00:26.489165
+server_side.search_app: 	2013-11-27 14:50:30.885455	Category& subcategory:MEDICAL, apps_topselling_new_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:50:30.886903	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:50:31.620839	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-27 14:50:31.621870	Time to insert 0 apps into id table:	0:00:00.733603
+server_side.search_app: 	2013-11-27 14:50:31.622981	Current category, subcategory:MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-27 14:50:56.874625	Time to search apps for this category:	0:00:25.250763
+server_side.search_app: 	2013-11-27 14:50:56.875146	Category& subcategory:MEDICAL, apps_topselling_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:50:56.876155	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:50:57.506389	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-27 14:50:57.506746	Time to insert 0 apps into id table:	0:00:00.630018
+server_side.search_app: 	2013-11-27 14:50:57.507119	Current category, subcategory:MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-27 14:50:59.352741	Time to search apps for this category:	0:00:01.845282
+server_side.search_app: 	2013-11-27 14:50:59.354314	Category& subcategory:MEDICAL, apps_topselling_new_paid searched 38 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:50:59.355870	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:50:59.431587	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-27 14:50:59.432241	Time to insert 0 apps into id table:	0:00:00.075809
+server_side.search_app: 	2013-11-27 14:50:59.433179	Current category, subcategory:MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-27 14:51:22.616347	Time to search apps for this category:	0:00:23.182515
+server_side.search_app: 	2013-11-27 14:51:22.617367	Category& subcategory:MEDICAL, apps_topselling_paid searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:51:22.619009	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:51:23.375825	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-27 14:51:23.376552	Time to insert 0 apps into id table:	0:00:00.756875
+server_side.search_app: 	2013-11-27 14:51:23.377407	Time to finish search apps by category:	0:01:18.985002
+server_side.search_app: 	2013-11-27 14:51:23.378064	Finish search-by-comment! 
+*****************************************************************
+server_side.search_app: 	2013-11-27 14:51:23.379343	Reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-27 14:51:23.380928	Finish reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-27 14:51:23.381757	Searching for new apps by keywords
+server_side.search_app: 	2013-11-27 14:51:23.382477	Current KeyWord:Menstrual Calendar
+server_side.search_app: 	2013-11-27 14:51:31.472164	Time to search apps for this keyword:	0:00:08.089177
+server_side.search_app: 	2013-11-27 14:51:31.473122	Key word:Menstrual Calendar searched 204 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:51:31.475320	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:53:39.755239	Inserted 0 app with keyword = Menstrual Calendar 
+server_side.search_app: 	2013-11-27 14:53:39.756701	Time to insert 0 apps into id table:	0:02:08.280217
+server_side.search_app: 	2013-11-27 14:53:39.757693	Current KeyWord:pregnancy
+server_side.search_app: 	2013-11-27 14:53:49.134574	Time to search apps for this keyword:	0:00:09.375937
+server_side.search_app: 	2013-11-27 14:53:49.136026	Key word:pregnancy searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:53:49.137600	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:56:22.397908	Inserted 0 app with keyword = pregnancy 
+server_side.search_app: 	2013-11-27 14:56:22.399179	Time to insert 0 apps into id table:	0:02:33.260909
+server_side.search_app: 	2013-11-27 14:56:22.399837	Current KeyWord:health
+server_side.search_app: 	2013-11-27 14:56:30.857864	Time to search apps for this keyword:	0:00:08.457351
+server_side.search_app: 	2013-11-27 14:56:30.859578	Key word:health searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:56:30.861108	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:59:23.553161	Inserted 0 app with keyword = health 
+server_side.search_app: 	2013-11-27 14:59:23.554866	Time to insert 0 apps into id table:	0:02:52.693112
+server_side.search_app: 	2013-11-27 14:59:23.555683	Current KeyWord:medical
+server_side.search_app: 	2013-11-27 14:59:32.474910	Time to search apps for this keyword:	0:00:08.918497
+server_side.search_app: 	2013-11-27 14:59:32.476244	Key word:medical searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:59:32.477883	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 14:59:33.329242	Inserted 0 app with keyword = medical 
+server_side.search_app: 	2013-11-27 14:59:33.330311	Time to insert 0 apps into id table:	0:00:00.851654
+server_side.search_app: 	2013-11-27 14:59:33.330995	Current KeyWord:women
+server_side.search_app: 	2013-11-27 14:59:43.012321	Time to search apps for this keyword:	0:00:09.680498
+server_side.search_app: 	2013-11-27 14:59:43.013728	Key word:women searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 14:59:43.015315	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 15:02:39.209263	Inserted 0 app with keyword = women 
+server_side.search_app: 	2013-11-27 15:02:39.209721	Time to insert 0 apps into id table:	0:02:56.193459
+server_side.search_app: 	2013-11-27 15:02:39.209952	Current KeyWord:men
+server_side.search_app: 	2013-11-27 15:02:48.925135	Time to search apps for this keyword:	0:00:09.714981
+server_side.search_app: 	2013-11-27 15:02:48.926336	Key word:men searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 15:02:48.927543	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 15:06:18.188374	Inserted 0 app with keyword = men 
+server_side.search_app: 	2013-11-27 15:06:18.189831	Time to insert 0 apps into id table:	0:03:29.261717
+server_side.search_app: 	2013-11-27 15:06:18.190794	Current KeyWord:birth plan
+server_side.search_app: 	2013-11-27 15:06:27.187312	Time to search apps for this keyword:	0:00:08.995318
+server_side.search_app: 	2013-11-27 15:06:27.188859	Key word:birth plan searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 15:06:27.190599	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 15:09:50.492135	Inserted 0 app with keyword = birth plan 
+server_side.search_app: 	2013-11-27 15:09:50.494524	Time to insert 0 apps into id table:	0:03:23.303138
+server_side.search_app: 	2013-11-27 15:09:50.495412	Current KeyWord:name
+server_side.search_app: 	2013-11-27 15:09:59.788325	Time to search apps for this keyword:	0:00:09.292114
+server_side.search_app: 	2013-11-27 15:09:59.789416	Key word:name searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 15:09:59.790024	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 15:12:59.704287	Inserted 0 app with keyword = name 
+server_side.search_app: 	2013-11-27 15:12:59.706451	Time to insert 0 apps into id table:	0:02:59.916143
+server_side.search_app: 	2013-11-27 15:12:59.706867	Current KeyWord:doctor
+server_side.search_app: 	2013-11-27 15:13:08.491496	Time to search apps for this keyword:	0:00:08.784172
+server_side.search_app: 	2013-11-27 15:13:08.492255	Key word:doctor searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-27 15:13:08.492707	Inserting searched apps to id table
+server_side.search_app: 	2013-11-27 15:15:41.314837	Inserted 0 app with keyword = doctor 
+server_side.search_app: 	2013-11-27 15:15:41.315703	Time to insert 0 apps into id table:	0:02:32.822748
+server_side.search_app: 	2013-11-27 15:15:41.315932	Time to finish search apps by keyword:	0:24:17.933485
+server_side.search_app: 	2013-11-27 15:15:41.316142	Finish search-by-keyword! 
+*****************************************************************
+server_side.search_app: 	2013-11-27 15:15:41.316598	Number of apps Inserted with searching by category:0 
+server_side.search_app: 	2013-11-27 15:15:41.317298	Number of apps Inserted with searching by keyword:0 
+server_side.search_app: 	2013-11-28 01:13:00.418777	Importing categories into Database
+server_side.search_app: 	2013-11-28 01:13:00.432656	MEDICAL existed already!
+server_side.search_app: 	2013-11-28 01:13:00.433319	Finish importing 0 categories into Database!
+*****************************************************************
+server_side.search_app: 	2013-11-28 01:13:00.434097	Searching for new apps using categories
+*****************************************************************
+server_side.search_app: 	2013-11-28 01:13:00.436756	Current category, subcategory:MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-28 01:13:22.508989	Time to search apps for this category:	0:00:22.071796
+server_side.search_app: 	2013-11-28 01:13:22.509583	Category& subcategory:MEDICAL, apps_topselling_new_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:13:22.510384	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:13:23.662170	Inserted 22 app with category& subcategory = MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-28 01:13:23.664317	Time to insert 22 apps into id table:	0:00:01.153577
+server_side.search_app: 	2013-11-28 01:13:23.666868	Current category, subcategory:MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-28 01:13:46.092695	Time to search apps for this category:	0:00:22.425418
+server_side.search_app: 	2013-11-28 01:13:46.093150	Category& subcategory:MEDICAL, apps_topselling_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:13:46.093545	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:13:48.466836	Inserted 53 app with category& subcategory = MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-28 01:13:48.467371	Time to insert 53 apps into id table:	0:00:02.373657
+server_side.search_app: 	2013-11-28 01:13:48.469781	Current category, subcategory:MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-28 01:13:50.228267	Time to search apps for this category:	0:00:01.758104
+server_side.search_app: 	2013-11-28 01:13:50.229920	Category& subcategory:MEDICAL, apps_topselling_new_paid searched 37 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:13:50.231925	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:13:50.342095	Inserted 1 app with category& subcategory = MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-28 01:13:50.342718	Time to insert 1 apps into id table:	0:00:00.108820
+server_side.search_app: 	2013-11-28 01:13:50.344145	Current category, subcategory:MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-28 01:14:12.051166	Time to search apps for this category:	0:00:21.706640
+server_side.search_app: 	2013-11-28 01:14:12.051864	Category& subcategory:MEDICAL, apps_topselling_paid searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:14:12.052434	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:14:13.287832	Inserted 16 app with category& subcategory = MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-28 01:14:13.288421	Time to insert 16 apps into id table:	0:00:01.235731
+server_side.search_app: 	2013-11-28 01:14:13.288747	Time to finish search apps by category:	0:01:12.853929
+server_side.search_app: 	2013-11-28 01:14:13.289055	Finish search-by-comment! 
+*****************************************************************
+server_side.search_app: 	2013-11-28 01:14:13.289608	Reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-28 01:14:13.290224	Finish reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-28 01:14:13.290505	Searching for new apps by keywords
+server_side.search_app: 	2013-11-28 01:14:13.290792	Current KeyWord:Menstrual Calendar
+server_side.search_app: 	2013-11-28 01:14:20.551899	Time to search apps for this keyword:	0:00:07.260841
+server_side.search_app: 	2013-11-28 01:14:20.552514	Key word:Menstrual Calendar searched 202 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:14:20.553194	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:16:27.695428	Inserted 0 app with keyword = Menstrual Calendar 
+server_side.search_app: 	2013-11-28 01:16:27.695834	Time to insert 0 apps into id table:	0:02:07.142367
+server_side.search_app: 	2013-11-28 01:16:27.696048	Current KeyWord:pregnancy
+server_side.search_app: 	2013-11-28 01:16:37.933389	Time to search apps for this keyword:	0:00:10.237166
+server_side.search_app: 	2013-11-28 01:16:37.934005	Key word:pregnancy searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:16:37.934607	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:19:12.397482	Inserted 0 app with keyword = pregnancy 
+server_side.search_app: 	2013-11-28 01:19:12.398116	Time to insert 0 apps into id table:	0:02:34.463142
+server_side.search_app: 	2013-11-28 01:19:12.398473	Current KeyWord:health
+server_side.search_app: 	2013-11-28 01:19:20.814617	Time to search apps for this keyword:	0:00:08.415798
+server_side.search_app: 	2013-11-28 01:19:20.815054	Key word:health searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:19:20.815547	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:22:27.675327	Inserted 0 app with keyword = health 
+server_side.search_app: 	2013-11-28 01:22:27.675747	Time to insert 0 apps into id table:	0:03:06.859990
+server_side.search_app: 	2013-11-28 01:22:27.676010	Current KeyWord:medical
+server_side.search_app: 	2013-11-28 01:22:36.560733	Time to search apps for this keyword:	0:00:08.884445
+server_side.search_app: 	2013-11-28 01:22:36.562059	Key word:medical searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:22:36.563547	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:22:37.537735	Inserted 0 app with keyword = medical 
+server_side.search_app: 	2013-11-28 01:22:37.538744	Time to insert 0 apps into id table:	0:00:00.974628
+server_side.search_app: 	2013-11-28 01:22:37.539135	Current KeyWord:women
+server_side.search_app: 	2013-11-28 01:22:46.987989	Time to search apps for this keyword:	0:00:09.448351
+server_side.search_app: 	2013-11-28 01:22:46.989298	Key word:women searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:22:46.990931	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:26:23.725553	Inserted 0 app with keyword = women 
+server_side.search_app: 	2013-11-28 01:26:23.726295	Time to insert 0 apps into id table:	0:03:36.734767
+server_side.search_app: 	2013-11-28 01:26:23.726968	Current KeyWord:men
+server_side.search_app: 	2013-11-28 01:26:34.355695	Time to search apps for this keyword:	0:00:10.628414
+server_side.search_app: 	2013-11-28 01:26:34.357336	Key word:men searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:26:34.358819	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:29:47.492779	Inserted 0 app with keyword = men 
+server_side.search_app: 	2013-11-28 01:29:47.494469	Time to insert 0 apps into id table:	0:03:13.135042
+server_side.search_app: 	2013-11-28 01:29:47.495489	Current KeyWord:birth plan
+server_side.search_app: 	2013-11-28 01:29:56.436086	Time to search apps for this keyword:	0:00:08.939656
+server_side.search_app: 	2013-11-28 01:29:56.437114	Key word:birth plan searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:29:56.438783	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:33:08.359564	Inserted 0 app with keyword = birth plan 
+server_side.search_app: 	2013-11-28 01:33:08.360518	Time to insert 0 apps into id table:	0:03:11.921005
+server_side.search_app: 	2013-11-28 01:33:08.361614	Current KeyWord:name
+server_side.search_app: 	2013-11-28 01:33:17.680345	Time to search apps for this keyword:	0:00:09.317831
+server_side.search_app: 	2013-11-28 01:33:17.680856	Key word:name searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:33:17.681335	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:36:25.498168	Inserted 0 app with keyword = name 
+server_side.search_app: 	2013-11-28 01:36:25.499261	Time to insert 0 apps into id table:	0:03:07.817727
+server_side.search_app: 	2013-11-28 01:36:25.499997	Current KeyWord:doctor
+server_side.search_app: 	2013-11-28 01:36:34.864394	Time to search apps for this keyword:	0:00:09.363691
+server_side.search_app: 	2013-11-28 01:36:34.865907	Key word:doctor searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 01:36:34.867862	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 01:39:31.906431	Inserted 0 app with keyword = doctor 
+server_side.search_app: 	2013-11-28 01:39:31.907569	Time to insert 0 apps into id table:	0:02:57.039090
+server_side.search_app: 	2013-11-28 01:39:31.908240	Time to finish search apps by keyword:	0:25:18.617469
+server_side.search_app: 	2013-11-28 01:39:31.908827	Finish search-by-keyword! 
+*****************************************************************
+server_side.search_app: 	2013-11-28 01:39:31.910153	Number of apps Inserted with searching by category:92 
+server_side.search_app: 	2013-11-28 01:39:31.910998	Number of apps Inserted with searching by keyword:0 
+server_side.search_app: 	2013-11-28 20:22:34.169813	Importing categories into Database
+server_side.search_app: 	2013-11-28 20:22:34.182487	MEDICAL existed already!
+server_side.search_app: 	2013-11-28 20:22:34.182866	Finish importing 0 categories into Database!
+*****************************************************************
+server_side.search_app: 	2013-11-28 20:22:34.183386	Searching for new apps using categories
+*****************************************************************
+server_side.search_app: 	2013-11-28 20:22:34.185216	Current category, subcategory:MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-28 20:23:05.839539	Time to search apps for this category:	0:00:31.653950
+server_side.search_app: 	2013-11-28 20:23:05.840578	Category& subcategory:MEDICAL, apps_topselling_new_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:23:05.842075	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:23:06.463473	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_new_free
+server_side.search_app: 	2013-11-28 20:23:06.464584	Time to insert 0 apps into id table:	0:00:00.621703
+server_side.search_app: 	2013-11-28 20:23:06.465611	Current category, subcategory:MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-28 20:23:29.849932	Time to search apps for this category:	0:00:23.383589
+server_side.search_app: 	2013-11-28 20:23:29.850338	Category& subcategory:MEDICAL, apps_topselling_free searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:23:29.850947	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:23:30.379359	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_free
+server_side.search_app: 	2013-11-28 20:23:30.379845	Time to insert 0 apps into id table:	0:00:00.528651
+server_side.search_app: 	2013-11-28 20:23:30.380094	Current category, subcategory:MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-28 20:23:32.322122	Time to search apps for this category:	0:00:01.941615
+server_side.search_app: 	2013-11-28 20:23:32.323365	Category& subcategory:MEDICAL, apps_topselling_new_paid searched 37 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:23:32.324338	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:23:32.364048	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_new_paid
+server_side.search_app: 	2013-11-28 20:23:32.368175	Time to insert 0 apps into id table:	0:00:00.043487
+server_side.search_app: 	2013-11-28 20:23:32.368538	Current category, subcategory:MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-28 20:23:56.617386	Time to search apps for this category:	0:00:24.248582
+server_side.search_app: 	2013-11-28 20:23:56.618690	Category& subcategory:MEDICAL, apps_topselling_paid searched 500 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:23:56.620322	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:23:57.261251	Inserted 0 app with category& subcategory = MEDICAL, apps_topselling_paid
+server_side.search_app: 	2013-11-28 20:23:57.261782	Time to insert 0 apps into id table:	0:00:00.640882
+server_side.search_app: 	2013-11-28 20:23:57.262279	Time to finish search apps by category:	0:01:23.078466
+server_side.search_app: 	2013-11-28 20:23:57.262972	Finish search-by-comment! 
+*****************************************************************
+server_side.search_app: 	2013-11-28 20:23:57.264025	Reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-28 20:23:57.264828	Finish reading keywords from keywords.txt file
+server_side.search_app: 	2013-11-28 20:23:57.265293	Searching for new apps by keywords
+server_side.search_app: 	2013-11-28 20:23:57.265821	Current KeyWord:Menstrual Calendar
+server_side.search_app: 	2013-11-28 20:24:05.338430	Time to search apps for this keyword:	0:00:08.072219
+server_side.search_app: 	2013-11-28 20:24:05.339943	Key word:Menstrual Calendar searched 202 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:24:05.341724	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:26:22.119593	Inserted 0 app with keyword = Menstrual Calendar 
+server_side.search_app: 	2013-11-28 20:26:22.121025	Time to insert 0 apps into id table:	0:02:16.778513
+server_side.search_app: 	2013-11-28 20:26:22.121951	Current KeyWord:pregnancy
+server_side.search_app: 	2013-11-28 20:26:31.967907	Time to search apps for this keyword:	0:00:09.845277
+server_side.search_app: 	2013-11-28 20:26:31.968747	Key word:pregnancy searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:26:31.969916	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:29:12.004029	Inserted 0 app with keyword = pregnancy 
+server_side.search_app: 	2013-11-28 20:29:12.005368	Time to insert 0 apps into id table:	0:02:40.034808
+server_side.search_app: 	2013-11-28 20:29:12.006525	Current KeyWord:health
+server_side.search_app: 	2013-11-28 20:29:20.981811	Time to search apps for this keyword:	0:00:08.974390
+server_side.search_app: 	2013-11-28 20:29:20.983175	Key word:health searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:29:20.984530	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:32:32.246506	Inserted 0 app with keyword = health 
+server_side.search_app: 	2013-11-28 20:32:32.247760	Time to insert 0 apps into id table:	0:03:11.262691
+server_side.search_app: 	2013-11-28 20:32:32.248680	Current KeyWord:medical
+server_side.search_app: 	2013-11-28 20:32:52.303168	Time to search apps for this keyword:	0:00:20.053598
+server_side.search_app: 	2013-11-28 20:32:52.303621	Key word:medical searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:32:52.304086	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:32:54.236324	Inserted 0 app with keyword = medical 
+server_side.search_app: 	2013-11-28 20:32:54.236697	Time to insert 0 apps into id table:	0:00:01.932350
+server_side.search_app: 	2013-11-28 20:32:54.236964	Current KeyWord:women
+server_side.search_app: 	2013-11-28 20:33:05.436599	Time to search apps for this keyword:	0:00:11.199413
+server_side.search_app: 	2013-11-28 20:33:05.437744	Key word:women searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:33:05.439347	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:36:18.053497	Inserted 0 app with keyword = women 
+server_side.search_app: 	2013-11-28 20:36:18.055179	Time to insert 0 apps into id table:	0:03:12.615050
+server_side.search_app: 	2013-11-28 20:36:18.055990	Current KeyWord:men
+server_side.search_app: 	2013-11-28 20:36:28.169997	Time to search apps for this keyword:	0:00:10.113360
+server_side.search_app: 	2013-11-28 20:36:28.170882	Key word:men searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:36:28.172076	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:39:42.958690	Inserted 0 app with keyword = men 
+server_side.search_app: 	2013-11-28 20:39:42.960842	Time to insert 0 apps into id table:	0:03:14.788176
+server_side.search_app: 	2013-11-28 20:39:42.961900	Current KeyWord:birth plan
+server_side.search_app: 	2013-11-28 20:39:52.179610	Time to search apps for this keyword:	0:00:09.216921
+server_side.search_app: 	2013-11-28 20:39:52.180557	Key word:birth plan searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:39:52.182029	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:43:01.469455	Inserted 0 app with keyword = birth plan 
+server_side.search_app: 	2013-11-28 20:43:01.470312	Time to insert 0 apps into id table:	0:03:09.287754
+server_side.search_app: 	2013-11-28 20:43:01.470879	Current KeyWord:name
+server_side.search_app: 	2013-11-28 20:43:11.232502	Time to search apps for this keyword:	0:00:09.761063
+server_side.search_app: 	2013-11-28 20:43:11.233945	Key word:name searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:43:11.235633	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:46:24.426955	Inserted 0 app with keyword = name 
+server_side.search_app: 	2013-11-28 20:46:24.428345	Time to insert 0 apps into id table:	0:03:13.191909
+server_side.search_app: 	2013-11-28 20:46:24.429349	Current KeyWord:doctor
+server_side.search_app: 	2013-11-28 20:46:34.325023	Time to search apps for this keyword:	0:00:09.894739
+server_side.search_app: 	2013-11-28 20:46:34.326485	Key word:doctor searched 250 apps
+--------------------------------------------------------
+server_side.search_app: 	2013-11-28 20:46:34.328405	Inserting searched apps to id table
+server_side.search_app: 	2013-11-28 20:49:22.456503	Inserted 0 app with keyword = doctor 
+server_side.search_app: 	2013-11-28 20:49:22.458097	Time to insert 0 apps into id table:	0:02:48.128795
+server_side.search_app: 	2013-11-28 20:49:22.459010	Time to finish search apps by keyword:	0:25:25.193236
+server_side.search_app: 	2013-11-28 20:49:22.460059	Finish search-by-keyword! 
+*****************************************************************
+server_side.search_app: 	2013-11-28 20:49:22.461717	Number of apps Inserted with searching by category:0 
+server_side.search_app: 	2013-11-28 20:49:22.462512	Number of apps Inserted with searching by keyword:0 

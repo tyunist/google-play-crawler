@@ -1,0 +1,44 @@
+server_side.update_infor: 	2013-12-14 03:01:06.959656	Start searching app information details
+server_side.update_infor: 	2013-12-14 03:01:07.716944	com.doraemon.doraemonRepairShop is preparing to insert information details!
+server_side.update_infor: 	2013-12-14 03:01:07.727904	New type :!	GAME
+server_side.update_infor: 	2013-12-14 03:01:07.731889	New permission_name :!	android.permission.INTERNET
+server_side.update_infor: 	2013-12-14 03:01:07.736405	New permission_name :!	android.permission.ACCESS_NETWORK_STATE
+server_side.update_infor: 	2013-12-14 03:01:07.742438	New permission_name :!	android.permission.READ_PHONE_STATE
+server_side.update_infor: 	2013-12-14 03:01:07.747372	New permission_name :!	android.permission.ACCESS_COARSE_LOCATION
+server_side.update_infor: 	2013-12-14 03:01:07.751111	New permission_name :!	android.permission.WRITE_EXTERNAL_STORAGE
+server_side.update_infor: 	2013-12-14 03:01:07.757059	New permission_name :!	android.permission.ACCESS_WIFI_STATE
+server_side.update_infor: 	2013-12-14 03:01:07.759958	New permission_name :!	com.android.vending.BILLING
+server_side.update_infor: 	2013-12-14 03:01:07.765397	New permission_name :!	com.doraemon.doraemonRepairShop.permission.C2D_MESSAGE
+server_side.update_infor: 	2013-12-14 03:01:07.768988	New permission_name :!	com.google.android.c2dm.permission.RECEIVE
+server_side.update_infor: 	2013-12-14 03:01:07.772394	New permission_name :!	android.permission.WAKE_LOCK
+server_side.update_infor: 	2013-12-14 03:01:07.775081	New permission_name :!	android.permission.READ_EXTERNAL_STORAGE
+server_side.update_infor: 	2013-12-14 03:01:07.779716	New developer_name:!	Animoca
+server_side.update_infor: 	2013-12-14 03:01:07.786201	New category_name:!	CASUAL
+server_side.update_infor: 	2013-12-14 03:01:08.492067	com.gau.go.touchhelperex.theme.captainbot is preparing to insert information details!
+server_side.update_infor: 	2013-12-14 03:01:08.496822	New type :!	APPLICATION
+server_side.update_infor: 	2013-12-14 03:01:08.506700	New developer_name:!	ZT.art
+server_side.update_infor: 	2013-12-14 03:01:08.509299	New category_name:!	TOOLS
+server_side.update_infor: 	2013-12-14 03:01:09.142641	com.ytdsearch.player is coppied to iddied table!
+server_side.update_infor: 	2013-12-14 03:01:09.763209	com.libiitech.libiihospital is preparing to insert information details!
+server_side.update_infor: 	2013-12-14 03:01:09.781401	New developer_name:!	Libii
+server_side.update_infor: 	2013-12-14 03:01:10.494024	com.ubisoft.rayman.fiestarun is preparing to insert information details!
+server_side.update_infor: 	2013-12-14 03:01:10.506397	New permission_name :!	com.android.vending.CHECK_LICENSE
+server_side.update_infor: 	2013-12-14 03:01:10.513119	New permission_name :!	android.permission.GET_ACCOUNTS
+server_side.update_infor: 	2013-12-14 03:01:10.516200	New permission_name :!	com.ubisoft.rayman.fiestarun.permission.C2D_MESSAGE
+server_side.update_infor: 	2013-12-14 03:01:10.523611	New developer_name:!	Ubisoft Entertainment
+server_side.update_infor: 	2013-12-14 03:01:10.526753	New category_name:!	ARCADE
+server_side.update_infor: 	2013-12-14 03:01:11.414872	com.ksmith.apps.paint.lite is coppied to iddied table!
+server_side.update_infor: 	2013-12-14 03:01:12.229164	com.gameloft.android.ANMP.GloftTBHM is preparing to insert information details!
+server_side.update_infor: 	2013-12-14 03:01:12.247317	New permission_name :!	com.gameloft.android.ANMP.GloftTBHM.permission.C2D_MESSAGE
+server_side.update_infor: 	2013-12-14 03:01:12.253483	New permission_name :!	android.permission.VIBRATE
+server_side.update_infor: 	2013-12-14 03:01:12.257897	New permission_name :!	android.permission.RECEIVE_BOOT_COMPLETED
+server_side.update_infor: 	2013-12-14 03:01:12.261941	New permission_name :!	glshare.permission.ACCESS_SHARED_DATA
+server_side.update_infor: 	2013-12-14 03:01:12.266228	New developer_name:!	Gameloft
+server_side.update_infor: 	2013-12-14 03:01:12.800626	com.bakes.chucknorrisfacts is coppied to iddied table!
+server_side.update_infor: 	*************Summarize!**********************
+server_side.update_infor: 	Number of row inserted into table updated_infor:	5
+server_side.update_infor: 	Number of row removed from id table (died app_id):	3
+server_side.update_infor: 	Start searching app information details at:	2013-12-14 03:01:06.960302
+server_side.update_infor: 	End process at:	2013-12-14 03:01:12.836880
+server_side.update_infor: 	Total time:	0:00:05.879174
+server_side.update_infor: 	*************END*****************************

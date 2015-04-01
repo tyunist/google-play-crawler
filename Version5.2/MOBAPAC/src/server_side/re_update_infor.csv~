@@ -1,0 +1,64 @@
+2013-11-18 02:56:17.073202	Start searching app information details
+2013-11-18 02:56:17.576914	com.doraemon.doraemonRepairShop is preparing to insert information details!
+2013-11-18 02:56:17.624882	New type :!	GAME
+2013-11-18 02:56:17.683453	New developer_name:!	Animoca
+2013-11-18 02:56:17.725258	New category_name:!	ARCADE
+2013-11-18 02:56:18.196788	com.gau.go.touchhelperex.theme.captainbot is preparing to insert information details!
+2013-11-18 02:56:18.242305	New type :!	APPLICATION
+2013-11-18 02:56:18.284199	New developer_name:!	ZT.art
+2013-11-18 02:56:18.317679	New category_name:!	TOOLS
+2013-11-18 02:56:18.861050	com.ytdsearch.player is preparing to insert information details!
+2013-11-18 02:56:18.926553	New developer_name:!	T.MODE
+2013-11-18 02:56:18.959892	New category_name:!	ENTERTAINMENT
+2013-11-18 02:56:19.529146	com.libiitech.libiihospital is preparing to insert information details!
+2013-11-18 02:56:19.610923	New developer_name:!	Libii
+2013-11-18 02:56:19.644036	New category_name:!	CASUAL
+2013-11-18 02:56:20.438319	com.ubisoft.rayman.fiestarun is preparing to insert information details!
+2013-11-18 02:56:20.536529	New permission_name :!	com.ubisoft.rayman.fiestarun.permission.C2D_MESSAGE
+2013-11-18 02:56:20.578288	New developer_name:!	Ubisoft Entertainment
+*************Summarize!**********************
+Number of row inserted into table updated_infor:	5
+Number of row removed from id table (died app_id):	0
+Start searching app information details at:	2013-11-18 02:56:17.074823
+End process at:	2013-11-18 02:56:20.621947
+Total time:	0:00:03.547354
+*************END*****************************
+2013-11-18 03:02:22.410920	Start searching app information details
+2013-11-18 03:02:22.914635	com.doraemon.doraemonRepairShop is preparing to insert information details!
+2013-11-18 03:02:23.478732	com.gau.go.touchhelperex.theme.captainbot is preparing to insert information details!
+2013-11-18 03:02:24.072449	com.ytdsearch.player is preparing to insert information details!
+2013-11-18 03:02:24.711169	com.libiitech.libiihospital is preparing to insert information details!
+2013-11-18 03:02:25.347553	com.ubisoft.rayman.fiestarun is preparing to insert information details!
+*************Summarize!**********************
+Number of row inserted into table updated_infor:	5
+Number of row removed from id table (died app_id):	0
+Start searching app information details at:	2013-11-18 03:02:22.412287
+End process at:	2013-11-18 03:02:25.458694
+Total time:	0:00:03.046810
+*************END*****************************
+2013-11-18 03:02:43.235311	Start searching app information details
+2013-11-18 03:02:43.740919	com.doraemon.doraemonRepairShop is preparing to insert information details!
+2013-11-18 03:02:44.302135	com.gau.go.touchhelperex.theme.captainbot is preparing to insert information details!
+2013-11-18 03:02:44.911587	com.ytdsearch.player is preparing to insert information details!
+2013-11-18 03:02:45.550788	com.libiitech.libiihospital is preparing to insert information details!
+2013-11-18 03:02:46.184801	com.ubisoft.rayman.fiestarun is preparing to insert information details!
+*************Summarize!**********************
+Number of row inserted into table updated_infor:	5
+Number of row removed from id table (died app_id):	0
+Start searching app information details at:	2013-11-18 03:02:43.236681
+End process at:	2013-11-18 03:02:46.262924
+Total time:	0:00:03.026669
+*************END*****************************
+2013-11-18 03:03:45.811519	Start searching app information details
+2013-11-18 03:03:46.257221	com.doraemon.doraemonRepairShop is preparing to insert information details!
+2013-11-18 03:03:46.816985	com.gau.go.touchhelperex.theme.captainbot is preparing to insert information details!
+2013-11-18 03:03:47.422571	com.ytdsearch.player is preparing to insert information details!
+2013-11-18 03:03:48.058696	com.libiitech.libiihospital is preparing to insert information details!
+2013-11-18 03:03:48.660743	com.ubisoft.rayman.fiestarun is preparing to insert information details!
+*************Summarize!**********************
+Number of row inserted into table updated_infor:	5
+Number of row removed from id table (died app_id):	0
+Start searching app information details at:	2013-11-18 03:03:45.811937
+End process at:	2013-11-18 03:03:48.739160
+Total time:	0:00:02.927694
+*************END*****************************

@@ -1,0 +1,195 @@
+#!/usr/bin/env python
+'''
+Created on Nov 12, 2013
+
+@author: tynguyen
+'''
+GOOGLE_LOGIN = GOOGLE_PASSWORD = AUTH_TOKEN = None
+from requests.exceptions import SSLError
+from google_api.getCommentById import get_comment_dict
+from google_api.googleplay import GooglePlayAPI
+from google_api.__init__ import *
+from create_tables_v5 import *
+from sqlalchemy import *
+from sqlalchemy.orm import *
+import datetime, time, csv
+LOG_PATH = "/media/DATA/ComputerScience/WorkSpace/MOBAPAC/log"
+# now = datetime.datetime.utcnow()
+# # 
+# #            
+# #Connect to the Database
+# engine = create_engine('mysql://root:mobapac2013@localhost/MOBA')
+# engine.echo = False  # Try changing this to True
+# Session = sessionmaker(autoflush=False)
+# Session.configure(bind=engine)
+# session = Session()
+# session2 = Session()
+
+# categories = Categories("3")
+# session2.add(categories)
+# with open(LOG_PATH+ "/test_cron.csv", "a+b") as f:
+#         writer = csv.writer(f,delimiter ='\t', quotechar=''  ,quoting=csv.QUOTE_NONE)
+#         writer.writerow(["Dang test nay", 1])
+a = None
+print type(a)
+b = ("%.5s"%a).decode('utf8')
+print b
+print type(b)
+# print "Bajo dang test ne"
+# def input_row(filename):
+#     try:
+# #         for line in open(filename,"rb"):
+#             
+#         return [line.rstrip() for line in open(filename,"rb")]
+#     except IOError:
+#         raise
+# 
+# list = input_row("categories.txt")
+# for line in list:
+#     print "l:", line
+# session.flush()
+
+# for i in range(20000):
+#     id = Id("%d anh yeu em"%i)
+#     session.add(id)
+#     session.flush()
+#     print i
+# session2.commit()
+# print session.query(Id.app_index).count()
+# session.rollback()
+# print session.query(Id.app_index).count()
+# print datetime.datetime.utcnow() - now
+# session.query(Id.app_id).filter(Id.app_index == 3).update({'app_index':30000})
+# print "fu"
+# session.commit()
+
+# session.flush() 
+# dict = {"error": 1}
+# if dict.has_key("error"):
+#     print "error"
+# testId = session.query(Id.app_index).filter(Id.app_index<2).scalar()
+# print testId
+# print "type:", type(testId)
+# 
+# testId = session.query(Id.app_id).filter(Id.app_index<2).scalar()
+# print testId
+# print "type:", type(testId)
+# 
+# 
+# start = now
+# for i in range(100000):
+#     print i
+#     if session.query(func.count(Id_died.app_index)).filter(Id_died.app_id==("%d insert"%i).decode('utf8')).scalar()==0:
+#         id_died = Id_died(("%d insert"%i).decode('utf8'))
+#         session.add(id_died)
+#         session.flush()
+#     else:
+#         continue
+# 
+# session.commit()
+# print "Start at:", start
+# print "End!", now
+# session.close()
+# if session.query(func.count(Id_died.app_index)).filter(Id_died.app_index==26).scalar() != 0:
+#     print "NO comment"
+# else:
+#     print "Wrong"
+# print session.query(func.count(Id_died.app_index)).filter(Id_died.app_index== 26).scalar() 
+# for i in testId:
+#     print "fukc"
+#     if i is None:
+#         print "This is none"
+#     else:
+#         print testId
+#         print type(testId)
+
+# def write_log(list):
+#     with open("test_write.csv", "a+b") as f:
+#         writer = csv.writer(f,delimiter ='\t', quotechar=''  ,quoting=csv.QUOTE_NONE)
+#         writer.writerow(list)
+# 
+# print "Now:", datetime.datetime.utcnow()
+# for i in range(1000000):
+#     write_log([i, "writing"])
+# print "Now:", datetime.datetime.utcnow()
+# print testId
+# print "type:", type(testId)
+# if any(testId) is False:
+#     print "Not empty"
+# else:
+#     print "not"
+# # 
+# N =0
+# for j in range(session.query(func.count(Developers.developer_name)).scalar()):
+#     i = session.query(Developers.developer_name).filter(Developers.developer_index==j).scalar()
+#     if  session.query(func.count(Developers.developer_name)).filter(Developers.developer_name==i).scalar() == 2:
+#         print "i =",  i
+#         N+=0.5
+#     if  session.query(func.count(Developers.developer_name)).filter(Developers.developer_name==i).scalar() == 3:
+#         print "i =",  i
+#         N +=0.33
+#     if  session.query(func.count(Developers.developer_name)).filter(Developers.developer_name==i).scalar() == 4:
+#         print "i =",  i
+#         N += 0.25
+#     else:
+#         print "No"
+# print "No of app ", N
+# print "No of unique name:", session.query(func.count(distinct(Developers.developer_name))).scalar()
+
+# print "Fetching IDs from id table!"
+# print datetime.datetime.utcnow()
+# app_tuple = session.query(Id).all()
+# for i in app_tuple:
+#     app_id = i.app_id
+# print datetime.datetime.utcnow()
+# def write_log(list):
+#     with open("re_search.csv", "a+b") as f:
+#         writer = csv.writer(f,delimiter ='\t', quotechar=''  ,quoting=csv.QUOTE_NONE)
+#         writer.writerow(list)
+# 
+# for i in range (100000):
+#     write_log([i, "abddasdfa"])    
+    
+    
+# print "Number of apps:", session.query(Id.app_index).count()
+# testId = 100
+# .filter(Comments.id == 13343)
+# session.add(testId)
+
+# string = ""
+# string = [1,2,5]
+# u = str(string)
+# print type(u)
+# print u[:-1]
+# print type(long(u[1]))
+# print string
+# print type(string)
+# print type(string[1])
+# dict = {1: "a", 2:"b"}
+# print type(dict.get("key","".decode('utf8'))), "is"
+# if dict.get("key","".decode('utf8')) is not None:
+#     print " not Null"
+# print type(long(0))
+# a = [4,5,6,7]
+# b = str(a).decode('utf8')
+# print b
+# print type(b)
+# for i in b:
+#     print i
+
+
+# data = {}
+# # data = data.fromkeys(range(2),[])
+# # data[1].append('hello')
+# print type(data)
+# 
+# com.ASeePro
+# com.softdyssee.sports.french_sport_p\9D\9Dtanque
+# com.ASeePro
+# com.emoquiz
+# 
+# giggle.app.fortunefacemaker 
+# stickler.mal.lyric      
+# com.softdyssee.sports.french_sp                 |
+
+
